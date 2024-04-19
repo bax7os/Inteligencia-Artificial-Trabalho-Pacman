@@ -12,8 +12,7 @@
 # Pieter Abbeel (pabbeel@cs.berkeley.edu).
 #
 #
-# Inteligêcia Artificial - Prof. Wesley Nunes
-# Ana Clara Bastos Moraes - 202219040523
+
 # 
 #
 
